@@ -2,7 +2,7 @@ name: mock_firebase_functions
 description: Flutter plugin for mocking FirebaseFunctions calls.
 repository: https://github.com/simplecohesion/mock_firebase_functions
 issue_tracker: https://github.com/simplecohesion/mock_firebase_functions/issues
-version: 0.0.3
+version: 0.0.4
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
